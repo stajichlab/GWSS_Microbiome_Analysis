@@ -1,0 +1,4 @@
+"","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","Kingdom","Phylum","Class","Order","Family","Genus","Species","ASV"
+"16S_SV5",3.90082036839837,-16.2393142183501,3.46019162843351,-4.69318348871388,2.68986023695692e-06,0.000766610167532723,"Bacteria","Proteobacteria","Gammaproteobacteria","Burkholderiales","Burkholderiaceae","Limnobacter","thiooxidans","Limnobacter (16S_SV5)"
+"16S_SV30",8.18554424495811,21.3946183997448,3.4539719203138,6.19420739176161,5.85790543628109e-10,1.66950304934011e-07,"Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Enterococcus","faecium","Enterococcus (16S_SV30)"
+"16S_SV129",2.66791859393049,-15.9947898324079,3.46021394316043,-4.62248580438898,3.79168766624999e-06,0.00108063098488125,"Bacteria","Actinobacteriota","Actinobacteria","Micromonosporales","Micromonosporaceae","Unclassified Micromonosporaceae",NA,"Unclassified Micromonosporaceae (16S_SV129)"

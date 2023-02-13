@@ -1,0 +1,10 @@
+﻿Status,Location,lat,long,DataFrom
+Susceptible,Tulare,35.985913,-118.968921,Exact
+Susceptible,Temecula,33.5258405,-117.0392916,Exact
+Resistant,General Beale Kern County,35.2696228,-118.7613945,Exact
+Resistant,Tulare,35.9641278,-118.9620478,Exact
+,Urban Site Kern County,35.389086,-118.96028,Estimate
+,Edison Kern County,35.359008,-118.874196,Estimate
+,Riverside,33.94,-117.4,Estimate
+,San Diego,32.81,-117.14,Estimate
+,Ventura,34.270636,-119.229669,Estimate

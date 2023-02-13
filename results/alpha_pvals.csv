@@ -1,0 +1,12 @@
+"","Data","Samples","Diversity","Metric","Category","pval","padj"
+"1","ITS","wild GWSS","Alpha","Shannon","Resistance",0.548354835483548,0.548354835483548
+"2","16S","wild GWSS","Alpha","Shannon","Resistance",0.480648064806481,0.600810081008101
+"3","ITS","all GWSS","Alpha","Shannon","Sex",0.247624762476248,0.30953095309531
+"4","16S","all GWSS","Alpha","Shannon","Sex",0.721572157215722,0.721572157215722
+"5","ITS","all GWSS","Alpha","Shannon","Captivity",0.0636063606360636,0.177517751775178
+"6","16S","all GWSS","Alpha","Shannon","Captivity",0.0305030503050305,0.152515251525153
+"7","ITS","wild GWSS","Alpha","Shannon","Region",0.071007100710071,0.177517751775178
+"8","16S","wild GWSS","Alpha","Shannon","Region",0.110911091109111,0.277277727772777
+"9","ITS","wild GWSS","Alpha","Shannon","Population",0.109410941094109,0.182351568490182
+"10","16S","wild GWSS","Alpha","Shannon","Population",0.274627462746275,0.457712437910458
+"11","ITS vs. 16S","all GWSS","Alpha","Shannon","Amplicon",0,0

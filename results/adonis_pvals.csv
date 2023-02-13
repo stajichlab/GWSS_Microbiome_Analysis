@@ -1,0 +1,23 @@
+"","Data","Samples","Diversity","Metric","Model","Category","pval","Fmod","R2","padj"
+"1","ITS","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Region",1e-04,2.67194438855821,0.144673832524251,0.000116666666666667
+"2","ITS","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Resistance",0.0252,1.70273618813164,0.0460977726874894,0.0252
+"3","ITS","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Year",1e-04,4.27734479974721,0.115799540562485,0.000116666666666667
+"4","16S","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Region",0.9444,0.384204148837998,0.0289546845787723,0.9444
+"5","16S","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Resistance",0.5846,0.668760032239125,0.0251998004848958,0.682033333333333
+"6","16S","wild GWSS","Beta","Hellinger","Region + Resistance + Year","Year",0.3427,1.06952910320236,0.0403013318891818,0.47978
+"7","ITS","all GWSS","Beta","Hellinger","Sex","Sex",0.7503,0.798768899338655,0.0108236073751877,0.7503
+"8","16S","all GWSS","Beta","Hellinger","Sex","Sex",0.3861,0.996975711148597,0.0131186234954655,0.3861
+"9","ITS","all GWSS","Beta","Hellinger","Region + Captivity + Year","Region",1e-04,2.79370653768917,0.152003390672245,0.000133333333333333
+"10","ITS","all GWSS","Beta","Hellinger","Region + Captivity + Year","Captivity",1e-04,4.67474587461293,0.0508698543591492,0.000133333333333333
+"11","ITS","all GWSS","Beta","Hellinger","Region + Captivity + Year","Year",1e-04,3.9278883573259,0.0427426675236568,0.000133333333333333
+"12","16S","all GWSS","Beta","Hellinger","Region + Captivity + Year","Region",0.0019,2.35776730123034,0.125610822483123,0.006
+"13","16S","all GWSS","Beta","Hellinger","Region + Captivity + Year","Captivity",0.003,4.61231330886975,0.0491444993723225,0.006
+"14","16S","all GWSS","Beta","Hellinger","Region + Captivity + Year","Year",0.0728,2.04651600434175,0.0218057616115127,0.0970666666666667
+"15","ITS","wild GWSS","Beta","Hellinger","Region + Year","Region",1e-04,3.34918594241956,0.229360864335459,0.000116666666666667
+"16","ITS","wild GWSS","Beta","Hellinger","Region + Year","Year",1e-04,4.81574104145819,0.0659588656273075,0.000116666666666667
+"17","16S","wild GWSS","Beta","Hellinger","Region + Year","Region",0.0146,2.03238545917556,0.166970218343246,0.1022
+"18","16S","wild GWSS","Beta","Hellinger","Region + Year","Year",0.0327,3.02793492959905,0.0497518769426131,0.11445
+"19","ITS","wild GWSS","Beta","Hellinger","Population + Year","Population",1e-04,2.92936021931761,0.304165404333315,0.000116666666666667
+"20","ITS","wild GWSS","Beta","Hellinger","Population + Year","Year",1e-04,3.12190845672008,0.0405197925884932,0.000116666666666667
+"21","16S","wild GWSS","Beta","Hellinger","Population + Year","Population",0.0756,1.51892316164925,0.203128551523081,0.1323
+"22","16S","wild GWSS","Beta","Hellinger","Population + Year","Year",0.0496,3.1508992714506,0.0526719867374609,0.115733333333333

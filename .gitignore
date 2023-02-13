@@ -1,0 +1,4 @@
+*.RProj
+data/16S/*
+data/ITS/*
+scripts/Guilds_v1.1.py

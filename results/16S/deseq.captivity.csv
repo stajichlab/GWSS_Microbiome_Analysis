@@ -1,0 +1,2 @@
+"","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","Kingdom","Phylum","Class","Order","Family","Genus","Species","ASV"
+"16S_SV23",21.0612440760669,-1.04108710345365,7.66622446383715e-05,-13580.1802877626,0,0,"Bacteria","Firmicutes","Bacilli","Staphylococcales","Staphylococcaceae","Staphylococcus","aureus","Staphylococcus (16S_SV23)"

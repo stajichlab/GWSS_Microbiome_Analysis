@@ -1,0 +1,11 @@
+"","Data","Samples","Diversity","Metric","Category","pval","Fmod","padj"
+"1","ITS","wild GWSS","Dispersion","Hellinger","Resistance",0.3486,0.914353426234562,0.3486
+"2","16S","wild GWSS","Dispersion","Hellinger","Resistance",0.175,1.98294941890357,0.175
+"3","ITS","all GWSS","Dispersion","Hellinger","Captivity",0.0035,8.61443842241036,0.0035
+"4","16S","all GWSS","Dispersion","Hellinger","Captivity",2e-04,20.0408211710486,2e-04
+"5","ITS","wild GWSS","Dispersion","Hellinger","Region",1e-04,11.0704516324546,2e-04
+"6","16S","wild GWSS","Dispersion","Hellinger","Region",0.1021,1.95471037723502,0.175
+"7","ITS","wild GWSS","Dispersion","Hellinger","Year",1e-04,8.93914404513838,2e-04
+"8","16S","wild GWSS","Dispersion","Hellinger","Year",0.016,3.7031335684716,0.064
+"9","ITS","wild GWSS","Dispersion","Hellinger","Population",0.0011,4.14934897150696,0.00146666666666667
+"10","16S","wild GWSS","Dispersion","Hellinger","Population",0.1663,1.54469708703009,0.175
